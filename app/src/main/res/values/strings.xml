@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="sign_in">Sign in</string>
+    <string name="johndoe123_gmail_com">johndoe123@gmail.com</string>
+    <string name="p">*********</string>
+    <string name="facebook_app_id">888902241716136</string>
+    <string name="fb_login_protocol_scheme">fb888902241716136</string>
+
+
+</resources>
